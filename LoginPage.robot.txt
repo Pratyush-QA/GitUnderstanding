@@ -1,1 +1,1 @@
-Login Page TC's
+Login Page TC's for Automation
