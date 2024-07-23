@@ -1,3 +1,3 @@
 # GitUnderstanding
 Learning Git &amp; Github
-Author - Pratyush Jindal
+Author - Pratyush Jindal Pune
